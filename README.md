@@ -3,7 +3,7 @@
 # Project Title:
 
 
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/63687b28-62e0-4a18-b9a7-02efc50dceb5" />
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/63687b28-62e0-4a18-b9a7-02efc50dceb5" />
 Description:
 
 
