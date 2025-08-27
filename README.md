@@ -1,11 +1,12 @@
 # computer-nteworks-project
 
 # Project Title:
-- 
+- Implement DHCP Snooping to prevent rogue DHCP servers
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63687b28-62e0-4a18-b9a7-02efc50dceb5" /> Description:
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" /> Tools Use:
+- Cisco Packet Tracer
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8f149832-d9f8-428b-82c2-bc6de41a6597" /> Summary:
 
