@@ -11,7 +11,7 @@
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8ade456-86cf-4400-b7c8-43374ec00611" /> Network Topologies
 
 - Star Topology
-<img width="935" height="599" alt="Star" src="https://github.com/user-attachments/assets/75ceb62b-6d5d-4d60-9f3a-043e9abd0c20" />
+<img width="835" height="599" alt="Star" src="https://github.com/user-attachments/assets/75ceb62b-6d5d-4d60-9f3a-043e9abd0c20" />
 
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8f149832-d9f8-428b-82c2-bc6de41a6597" /> Summary:
