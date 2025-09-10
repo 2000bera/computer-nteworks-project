@@ -13,6 +13,16 @@
 - Star Topology
 <img width="635" height="599" alt="Star" src="https://github.com/user-attachments/assets/75ceb62b-6d5d-4d60-9f3a-043e9abd0c20" />
 
+- Bus Topology
+
+- Mesh Topology
+
+- Ring Topology
+
+- Extended Star Topology
+
+- Hybrid Topology
+
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8f149832-d9f8-428b-82c2-bc6de41a6597" /> Summary:
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/993d7e4b-b8fd-4d2c-93ba-01bea864d133" /> Visualization:
