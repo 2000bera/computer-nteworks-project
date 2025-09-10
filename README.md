@@ -8,7 +8,7 @@
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" /> Tools Use:
 - Cisco Packet Tracer
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8ade456-86cf-4400-b7c8-43374ec00611" /> Network Topologies
+# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8ade456-86cf-4400-b7c8-43374ec00611" /> Network Topologies
 
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8f149832-d9f8-428b-82c2-bc6de41a6597" /> Summary:
