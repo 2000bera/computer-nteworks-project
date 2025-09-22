@@ -14,18 +14,20 @@
 <img width="1360" height="768" alt="Star Topology" src="https://github.com/user-attachments/assets/e62b7792-e984-47a6-a41b-6f3039722fd9" />
 
 - Bus Topology
+<img width="1360" height="768" alt="Bus Topology" src="https://github.com/user-attachments/assets/746dd124-9366-4dc6-96bd-f1f03a80b2f0" />
 
 - Mesh Topology
+<img width="1360" height="768" alt="Mesh Topology" src="https://github.com/user-attachments/assets/76a8cb1c-fb29-41ff-83da-0f9a7c4a0519" />
 
 - Ring Topology
+<img width="1360" height="768" alt="Ring Topology" src="https://github.com/user-attachments/assets/7163ecd4-2201-4623-8a59-c85d21d1322a" />
 
 - Extended Star Topology
+<img width="1360" height="768" alt="Extended Star Topology" src="https://github.com/user-attachments/assets/bde323b8-bb0c-4ad3-a7f0-363328bd031a" />
 
 - Hybrid Topology
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8f149832-d9f8-428b-82c2-bc6de41a6597" /> Summary:
-
-# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/993d7e4b-b8fd-4d2c-93ba-01bea864d133" /> Visualization:
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f2821bd8-bb52-4edc-919c-0bf6fa2e7233" /> Learnings:
 
