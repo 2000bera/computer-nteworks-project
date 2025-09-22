@@ -11,7 +11,7 @@
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8ade456-86cf-4400-b7c8-43374ec00611" /> Network Topologies
 
 - Star Topology
-<img width="635" height="599" alt="Star" src="https://github.com/user-attachments/assets/75ceb62b-6d5d-4d60-9f3a-043e9abd0c20" />
+<img width="1360" height="768" alt="Star Topology" src="https://github.com/user-attachments/assets/e62b7792-e984-47a6-a41b-6f3039722fd9" />
 
 - Bus Topology
 
